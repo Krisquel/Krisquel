@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **chrquelonio@gmail.com**
 
-- 📄 Know about my experiences [https://jobseekers.jobs180.com/resume/preview](https://jobseekers.jobs180.com/resume/preview)
+- 📄 Know about my experiences [https://christianquelonio.jobs180.com/](https://christianquelonio.jobs180.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
