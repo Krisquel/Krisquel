@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Christian Estrada Quelonio</h1>
 <h3 align="center">I possess a strong passion for web development, with a particular focus on honing my skills in backend development. While I do engage in frontend development, my primary area of expertise lies in the backend, where I thrive in crafting robust and efficient solutions. By consistently refining my knowledge and staying up-to-date with the latest technologies and best practices, I am committed to delivering high-quality web applications that effectively meet the needs of users and clients alike.</h3>
 
-- 🌱 I’m currently learning **React.js**
-
 - 📫 How to reach me **chrquelonio@gmail.com**
 
 - 📄 Know about my experiences [https://christianquelonio.jobs180.com/](https://christianquelonio.jobs180.com/)
