@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Christian Estrada Quelonio</h1>
-<h3 align="center">I possess a strong passion for web development, with a particular focus on honing my skills in backend development. I am currently a Junior Laravel Developer.</h3>
+<h3 align="center">I possess a strong passion for web development, with a particular focus on honing my skills in backend development. I am currently a Full Stack Web Developer.</h3>
 
 - 📫 How to reach me **chrquelonio@gmail.com**
 
-- 📄 Know about my experiences [https://christianquelonio.jobs180.com/](https://christianquelonio.jobs180.com/)
+- 📄 Know about my experiences [www.linkedin.com/in/christian-quelonio-a07a4525a)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
